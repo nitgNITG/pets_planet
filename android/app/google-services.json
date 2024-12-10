@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "39438308608",
+    "firebase_url": "https://pets-453fc-default-rtdb.firebaseio.com",
+    "project_id": "pets-453fc",
+    "storage_bucket": "pets-453fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39438308608:android:3d97945cc635f63428cfe5",
+        "android_client_info": {
+          "package_name": "com.mycompany.pets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tdBnedCda6Aq62Rxw0G40Rdm5pXzPJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39438308608:android:5ea2f323a8d7a5cc28cfe5",
+        "android_client_info": {
+          "package_name": "com.mycompany.petsplanet2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tdBnedCda6Aq62Rxw0G40Rdm5pXzPJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
